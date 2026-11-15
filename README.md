@@ -31,3 +31,9 @@ This is a frontend demonstration project. Registration, login, bidding, and cont
 
 ## Developer
 Bandi Indravathi
+
+## 🎥 Project Demo Video
+
+Watch the AuctionHouse website demo:
+
+[Click here to watch the demo](https://youtu.be/dkYr29khmdk)
